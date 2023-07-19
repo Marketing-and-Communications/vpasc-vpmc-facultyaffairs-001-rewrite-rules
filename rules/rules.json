@@ -1,8 +1,8 @@
 [
+    "/Our-Office/Leadership /about/leadership.html [R=301,L,NC]",
+    "/Our-Office/ /about/ [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
-    "^(((?!\\.).)*)$ $1/index.html [R,L]",
-    "/Our-Office/Leadership /about/leadership.html [R=301,L,NC]",
-    "/Our-Office/ /about/index.html [R=301,L,NC]"
+    "^(((?!\\.).)*)$ $1/index.html [R,L]"
 ]
